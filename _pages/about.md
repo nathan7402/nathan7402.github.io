@@ -19,6 +19,7 @@ social: true # includes social icons at the bottom of the page
 I am a biotech professional, runner, mountaineer, and recreational photographer. This website is an attempt to capture all those dimensions in one place. It is currently *in progress*!
 
 I envision this site containing a few different kinds of content:
+
 1. blog posts on whatever interests me
 2. personal reflections
 3. trip reports
