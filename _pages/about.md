@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a biotech professional, runner, mountaineer, and recreational photographer. This website is an attempt to capture all those dimensions in one place. It is currently *in progress*!
+I am a biotech professional, runner, mountaineer, and recreational photographer. This website is an attempt to capture all those dimensions in one place. It is currently _in progress_!
 
 I envision this site containing a few different kinds of content:
 
@@ -26,4 +26,4 @@ I envision this site containing a few different kinds of content:
 4. photos
 5. the boring stuff (resume, bio, contact info, etc.)
 
-I've made it mostly for myself, but if you find it interesting, please let me [know](nathan7402@gmail.com)!
+I've made it mostly for myself, but if you find it interesting, please let me [know](mailto:nathan7402@gmail.com)!
