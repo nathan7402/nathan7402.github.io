@@ -30,7 +30,12 @@
       "startDate": "2019-09-10",
       "endDate": "present",
       "summary": "Team leader for a leading life sciences strategy consulting firm. Worked on over 50 engagements across biopharma, health IT, and digital health, in multiple therapeutic areas. Example projects listed below.",
-      "highlights": ["Developed a portfolio strategy spanning neurology, psychiatry, pain, and for a clinical-stage biotech\’s discovery program targeting a specific potassium ion channel","Developed a ten-year corporate strategy for a medical device startup focused on home dialysis, which led to a major shift in their priorities for a next-generation device","Created a detailed business strategy for a large medical device company building a new line of business in remote patient monitoring, wearables, and population health","Commercial due diligence of an outsourced antibody discovery company using in vitro selection techniques on semi-synthetic antibody libraries to identify candidate antibodies"]
+      "highlights": [
+        "Developed a portfolio strategy spanning neurology, psychiatry, pain, and for a clinical-stage biotech\’s discovery program targeting a specific potassium ion channel",
+        "Developed a ten-year corporate strategy for a medical device startup focused on home dialysis, which led to a major shift in their priorities for a next-generation device",
+        "Created a detailed business strategy for a large medical device company building a new line of business in remote patient monitoring, wearables, and population health",
+        "Commercial due diligence of an outsourced antibody discovery company using in vitro selection techniques on semi-synthetic antibody libraries to identify candidate antibodies"
+      ]
     },
     {
       "name": "Harvard Stem Cell Institute",
@@ -70,7 +75,15 @@
       "startDate": "2015-08",
       "endDate": "2019-05",
       "score": "10",
-      "courses": ["Molecular and Cell Biology","Genetics and Genomics","Psychopharmacology","Frontiers in Therapeutics","Introduction to Computer Science I and II","Artifical Intellligence","Public Speaking"]
+      "courses": [
+        "Molecular and Cell Biology",
+        "Genetics and Genomics",
+        "Psychopharmacology",
+        "Frontiers in Therapeutics",
+        "Introduction to Computer Science I and II",
+        "Artifical Intellligence",
+        "Public Speaking"
+      ]
     }
   ],//"volunteer": [
   //   {
