@@ -2,10 +2,10 @@
 layout: page
 title: galleries
 permalink: /galleries/
-description: A growing collection of your cool projects.
+description: Some of my favorite photos. All photos taken by me on my iPhone, unless otherwise stated.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [mountains, wildflowers, NorCal]
 horizontal: false
 ---
 

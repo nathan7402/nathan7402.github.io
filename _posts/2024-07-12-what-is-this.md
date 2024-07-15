@@ -10,7 +10,7 @@ featured: true
 
 I’ve just started this site, and one question begs answering: Why? I’m just some guy, who cares what I do or think? I don’t need a blog.
 
-First of all, correct—I don’t need a blog. But I created one anyway. Here's why:
+First of all, correct—I don’t need a blog. Here's why I created one anyway:
 
 1. **This site is an excuse to write.** My current job and lifestyle mean most of the things I create are either long slide decks or short social media posts. Now that I’m no longer in school, I don’t have much reason to write longer-form content. This site gives me an excuse to do so and keep those skills alive.
 2. **This site is an excuse to learn, think, and reflect.** Writing something down is one of the best ways to organize your thoughts on a topic. I think writing here will help me reflect on my own life and understand myself better. I also hope that it will give me an excuse to nerd out on topics that interest me, and to learn about them in more depth than I would if I wasn’t writing about them as well.

@@ -1,81 +1,270 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Sierra Nevada
+description: the range of light
+img: assets/img/sierra/banner3.jpg
 importance: 1
-category: work
-related_publications: true
+category: mountains
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As my home mountain range, the Sierra Nevada has a special place in my heart. It's rugged, varied, beautiful, and benefits from some of the best weather of any major mountain range. I hope to spend many more years of my life exploring its vast wilderness.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Here are some of my favorite photos of the range of light, approximately from north to south.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Lake Tahoe to Yosemite
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+_The northern part of the range, as far south as Donohue Pass._
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/yosemitepoint.jpg" title="Yosemite Point" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/tamaracklake.jpg" title="Tamarack Lake" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Yosemite Point, February 2023</i>
+        </div>
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Tamarack Lake, July 2022</i>
+        </div>
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/stanford.jpg" title="Stanford Point" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/sierra/vernalfalls2.jpg" title="Vernal Falls" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/yosemitecreek.jpg" title="Yosemite Creek" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Stanford Point, May 2023</i>
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Vernall Falls, May 2022</i>
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Yosemite Creek, February 2023</i>
+        </div>
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/cloudsrestsunrise.jpg" title="Sunrise from Cloud's Rest" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/deweyview.jpg" title="Dewey Point" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Sunrise over the Cathedral Range, June 2023</i>
+        </div>
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Sunrise from Dewey Point, May 2023</i>
+        </div>
+    </div>
+</div>
+
+## Mammoth Lakes Region
+
+_Donohue Pass to Selden Pass. Includes the Ritter Range, Mammoth Lakes, and Long Valley Caldera._
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/banner3.jpg" title="Banner Peak" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    <i>Morning light on Banner Peak, August 2023</i>
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/lakevirginia.jpg" title="Lake Virginia" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/convictcreekalpenglow.jpg" title="Alpenglow" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/minaretlake.jpg" title="Minaret Lake" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
-```
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Lake Virginia, August 2023</i>
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Alpenglow from the Convict Creek trail, July 2023</i>
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Minaret Lake, July 2022</i>
+        </div>
+    </div>
+</div>
 
-{% endraw %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/selden2.jpg" title="Marie Lake" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    <i>Marie Lake from Selden Pass, August 2023</i>
+</div>
+
+## Bishop Region
+
+_Selden Pass to Mather Pass. Includes the Evolution Basin and Palisade Crest._
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/fingerlake.jpg" title="Finger Lake" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/muirpassclimb.jpg" title="Muir Pass" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/agassiz.jpg" title="Mt. Agassiz" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Finger Lake, July 2024</i>
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Climbing toward Muir Pass, August 2023</i>
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Mt Agassiz from Bishop Pass trail, July 2022</i>
+        </div>
+    </div>
+</div>
+
+## Rae Lakes and Beyond
+
+_Mather Pass to Forester Pass. Includes the Rae Lakes and Kearsarge Lakes._
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/raelakes.jpg" title="Rae Lakes" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    <i>Rae Lakes, August 2023</i>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/kearsarge3.jpg" title="Kearsarge Pinnacles" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/racheljmt.jpg" title="JMT" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Kearsarge Pinnacles, July 2022</i>
+        </div>
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="caption">
+            <i>JMT south of Mather Pass, August 2023</i>
+        </div>
+    </div>
+</div>
+
+## Southern Sierra
+
+_South of Forester Pass. Includes Mt. Whitney, Mt. Williamson, and the Great Western Divide._
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/whitneyclimb.jpg" title="Mt. Whitney" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/tyndall.jpg" title="Mt. Tyndall" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/whitney.jpg" title="Mt. Agassiz" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Climbing toward Mt. Whitney, July 2023</i>
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Shooting stars near Mt. Tyndall, July 2023</i>
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Mt. Whitney from the summit of Mt. Muir, July 2023</i>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/forestersunset1.jpg" title="Sunet at Forester Pass" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    <i>Sunset at Forester Pass, July 2023</i>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/muirsunrise3.jpg" title="Sunrise on Whitney Trail" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sierra/eastside.jpg" title="Eastern Sierra" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Sunrise from the Whitney Trail (Mt. Muir at center right), July 2023</i>
+        </div>
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="caption">
+            <i>Eastern Sierra (Mt Williamson at center left), July 2023</i>
+        </div>
+    </div>
+</div>
