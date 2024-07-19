@@ -229,18 +229,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Elementary",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Biotechnology",
@@ -300,6 +288,18 @@
       "startDate": "2016-11-27",
       "endDate": "2022-11-28",
       "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Elementary",
+      "icon": ""
     }
   ]
 }
