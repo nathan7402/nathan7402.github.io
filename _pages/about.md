@@ -25,6 +25,6 @@ I envision this site containing a few different kinds of content:
 2. personal reflections
 3. trip reports
 4. photos
-5. the boring stuff (resume, bio, contact info, etc.)
+5. personal info (resume, bio, contact info, etc.)
 
 I've made it mostly for myself, but if you find it interesting, please let me [know](mailto:nathan7402@gmail.com)!
